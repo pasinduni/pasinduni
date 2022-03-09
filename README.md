@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Shanika Wijewickrama.</h1>
 <h3 align="center">I'm a Information Technology Undergraduate Student at SLIIT.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishanperera&label=Profile%20views&color=0e75b6&style=flat" alt="mishanperera" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasinduni&label=Profile%20views&color=0e75b6&style=flat" alt="shanikawijewickrama" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
