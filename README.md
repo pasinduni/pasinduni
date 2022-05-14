@@ -8,15 +8,19 @@
 pasinduni/pasinduni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Shanika Wijewickrama.</h1>
-<h3 align="center">I'm a Information Technology Undergraduate Student at SLIIT.</h3>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Shanika Wijewickrama.</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasinduni&label=Profile%20views&color=0e75b6&style=flat" alt="shanikawijewickrama" /> </p>
+<h3 align="center"> 👩‍🎓🎓Information Technology Undergraduate at SLIIT.</h3>
+
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasinduni&label=Profile%20views&color=0e75b6&style=flat" alt="shanikawijewickrama" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<br>
+
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank"> 
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -27,8 +31,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> 
@@ -58,6 +60,37 @@ You can click the Preview link to take a look at your changes.
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
+<a href="https://postman.com" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</p>
+  
+<h2></h2>
+  
+<br>
+
+<p align="center">
+  <a href="https://github.com/pasinduni/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasinduni&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"/>
+  </a>
+&nbsp;
+  <a href="https://github.com/pasinduni/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=pasinduni&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"/>
+  </a>
+</p>
+
+
+<br>
+
+  
+  
+  
+  
+  
+  
+  
+  
