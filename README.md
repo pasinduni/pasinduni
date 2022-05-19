@@ -49,13 +49,14 @@ You can click the Preview link to take a look at your changes.
   
 <br>
 
+<p align="center">
 <a href="">
- ![GitHub stats] <img align="center" src="https://github-readme-stats.vercel.app/api?username=pasinduni&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pasinduni&show_icons=true&theme=radical" />
 </a>&nbsp;&nbsp;
-<br>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasinduni&layout=compact&theme=radical" />
 </a>
+</p>
 
 <!-- <p align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pasinduni&show_icons=true&theme=radical)
