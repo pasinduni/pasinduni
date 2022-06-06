@@ -8,7 +8,7 @@
 pasinduni/pasinduni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">Hi there, 
+<!-- ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">Hi there,  -->
 ### 👩‍I'm <i>Shanika Wijewickrama</i>
 ### 🎓Information Technology Undergraduate at SLIIT
 
