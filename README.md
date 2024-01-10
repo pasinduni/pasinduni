@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasinduni&label=Profile%20views&color=0e75b6&style=flat" alt="shanikawijewickrama" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 
 <br>
 
@@ -50,15 +50,8 @@ You can click the Preview link to take a look at your changes.
   
 <br>
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pasinduni&show_icons=true&theme=radical" />
-</a>
-<br><br>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasinduni&layout=compact&theme=radical" />
-</a>
 
-<!-- <p align="center">
+<p align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pasinduni&show_icons=true&theme=radical)
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasinduni&layout=compact&theme=radical)](https://github.com/pasinduni/github-readme-stats)
